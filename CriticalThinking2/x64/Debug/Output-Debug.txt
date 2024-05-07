@@ -1,0 +1,17 @@
+﻿'CriticalThinking2_Option1.exe' (Win32): Loaded 'C:\Users\Lexee Gabiola\source\repos\CriticalThinking2_Option1\x64\Debug\CriticalThinking2_Option1.exe'. Symbols loaded.
+'CriticalThinking2_Option1.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'CriticalThinking2_Option1.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'CriticalThinking2_Option1.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'CriticalThinking2_Option1.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'CriticalThinking2_Option1.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'CriticalThinking2_Option1.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'CriticalThinking2_Option1.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x4864 has exited with code 0 (0x0).
+The thread 0x4f2c has exited with code 0 (0x0).
+The thread 0x4584 has exited with code 0 (0x0).
+'CriticalThinking2_Option1.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'CriticalThinking2_Option1.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'CriticalThinking2_Option1.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x4d28 has exited with code 0 (0x0).
+The thread 0x5588 has exited with code 0 (0x0).
+The program '[15512] CriticalThinking2_Option1.exe' has exited with code 0 (0x0).
